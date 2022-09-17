@@ -50,9 +50,9 @@ for n in range(90000):
 
     sys.stdout = open('.txt', 'a')
 
-    print nmbr
 
-    sys.stdout.flush()
+
+
 
  
 
